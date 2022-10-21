@@ -1,0 +1,1 @@
+This repository contains all the examples and tests made during the reading and learning of the book "The C programming language" by BRIAN W. KERNIGHAN and DENNIS M. RITCHIE
